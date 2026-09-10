@@ -1,0 +1,7 @@
+@echo off
+cd /d "C:\Users\???\Desktop\valorant-wallbang"
+echo ?????????????...
+start /B "" "E:\Node.js\node.exe" server.js
+echo ??????: http://localhost:8080
+timeout /t 3 > nul
+start http://localhost:8080

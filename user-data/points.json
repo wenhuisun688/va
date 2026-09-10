@@ -1,0 +1,149 @@
+{
+  "maps": [
+    {
+      "id": "ascent",
+      "name": "亚海悬城",
+      "nameEn": "Ascent"
+    },
+    {
+      "id": "split",
+      "name": "霓虹町",
+      "nameEn": "Split"
+    },
+    {
+      "id": "haven",
+      "name": "隐世修所",
+      "nameEn": "Haven"
+    },
+    {
+      "id": "sunset",
+      "name": "日落之城",
+      "nameEn": "Sunset"
+    },
+    {
+      "id": "lotus",
+      "name": "莲花古城",
+      "nameEn": "Lotus"
+    },
+    {
+      "id": "summit",
+      "name": "天枢云阙",
+      "nameEn": "Summit"
+    },
+    {
+      "id": "abyss",
+      "name": "幽邃地窟",
+      "nameEn": "Abyss"
+    }
+  ],
+  "sideLabels": {
+    "attack": "进攻方",
+    "defense": "防守方"
+  },
+  "points": {
+    "ascent": [],
+    "split": [],
+    "haven": [
+      {
+        "id": "haven-01",
+        "name": "车库穿中门",
+        "side": "defense",
+        "x": 0.43432554439087806,
+        "y": 0.6158808240744462,
+        "detail": {
+          "title": "车库穿中门",
+          "description": "蹲下准星对齐台阶边缘中心，对齐门上第三条黑线，瞄准门框中央区域",
+          "crouch": true,
+          "images": [
+            "/assets/screenshots/车库穿中门_haven_0_0_1789047149368.png",
+            "/assets/screenshots/车库穿中门_haven_0_1_1789047149371.png"
+          ]
+        }
+      },
+      {
+        "id": "haven-02",
+        "name": "AB连穿A门",
+        "side": "defense",
+        "x": 0.36714621511152773,
+        "y": 0.37758678106372306,
+        "detail": {
+          "title": "AB连穿A门",
+          "description": "对准墙上小白点贴紧蹲下，回头瞄准两块砖中间空白区域",
+          "crouch": true,
+          "images": [
+            "/assets/screenshots/AB连穿A门_haven_1_0_1789047149374.png",
+            "/assets/screenshots/AB连穿A门_haven_1_1_1789047149376.png"
+          ]
+        }
+      },
+      {
+        "id": "haven-03",
+        "name": "A厅穿A大直架",
+        "side": "attack",
+        "x": 0.6784037558685446,
+        "y": 0.3897897335285312,
+        "detail": {
+          "title": "A厅穿A大直架",
+          "description": "贴近门框中间蹲下，回头瞄准黑砖右下角区域",
+          "crouch": true,
+          "images": [
+            "/assets/screenshots/A厅穿A大直架_haven_2_0_1789047149380.png",
+            "/assets/screenshots/A厅穿A大直架_haven_2_1_1789047149383.png"
+          ]
+        }
+      },
+      {
+        "id": "haven-04",
+        "name": "A大穿VIP",
+        "side": "defense",
+        "x": 0.5293427230046949,
+        "y": 0.14448456920928238,
+        "detail": {
+          "title": "A大穿VIP",
+          "description": "对齐墙边站立，准星与栅栏齐平，瞄准两墙中间区域",
+          "crouch": false,
+          "images": [
+            "/assets/screenshots/A大穿VIP_haven_3_0_1789047149387.png",
+            "/assets/screenshots/A大穿VIP_haven_3_1_1789047149391.png"
+          ]
+        }
+      },
+      {
+        "id": "haven-05",
+        "name": "A大穿A门",
+        "side": "defense",
+        "x": 0.5305164319248826,
+        "y": 0.12989302084479534,
+        "detail": {
+          "title": "A大穿A门",
+          "description": "对齐墙边站立，准星与栅栏齐平，瞄准白墙中间位置",
+          "crouch": true,
+          "images": [
+            "/assets/screenshots/A大穿A门_haven_4_0_1789047149395.png",
+            "/assets/screenshots/A大穿A门_haven_4_1_1789047149399.png"
+          ]
+        }
+      },
+      {
+        "id": "haven-06",
+        "name": "AB连穿A门",
+        "side": "defense",
+        "x": 0.3652053102639069,
+        "y": 0.3773417138490356,
+        "detail": {
+          "title": "AB连穿A门",
+          "description": "对准地下电线凸起贴墙蹲下，准星与门把手齐平，瞄准第三块门板中间",
+          "crouch": true,
+          "images": [
+            "/assets/screenshots/AB连穿A门_haven_5_0_1789047149402.png",
+            "/assets/screenshots/AB连穿A门_haven_5_1_1789047149404.png"
+          ]
+        }
+      }
+    ],
+    "sunset": [],
+    "lotus": [],
+    "summit": [],
+    "abyss": []
+  }
+}
